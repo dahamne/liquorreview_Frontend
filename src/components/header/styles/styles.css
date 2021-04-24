@@ -1,0 +1,18 @@
+.filter{
+    width:12vw;
+    margin-right:1em;
+ }
+
+ @media(max-width:1200px){
+    .filter{
+        width:15vw;
+    }
+ }
+
+ @media(max-width:800px){
+    .filter{
+        width:40vw;
+        margin:1rem;
+ }
+}
+

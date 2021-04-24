@@ -1,0 +1,27 @@
+
+.searchButton{
+    margin-left:.5em;
+    -webkit-box-shadow: 3px 6px 58px -7px rgba(255,255,255,0.35);
+    -moz-box-shadow: 3px 6px 58px -7px rgba(255,255,255,0.35);
+    box-shadow: 3px 6px 58px -7px rgba(255,255,255,0.35);
+    
+
+}
+.searchWrapper{
+    width:40vw;
+    display:flex;
+}
+
+@media (max-width:1000px){
+    .searchWrapper{
+        display: flex;
+        flex-direction:column;
+        width:80%;
+        justify-content:center;
+        align-items: center;
+    }
+    .searchButton{
+        width:30%;
+        margin-top:0.5em;
+    }
+}
