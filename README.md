@@ -1,3 +1,10 @@
+#tips to start the project
+1.first go to the folder and run $npm install 
+2.we have used material ui, fontawesome and react-boostrap in this project
+3.we need to install these dependencies 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
