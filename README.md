@@ -1,4 +1,4 @@
-#tips to start the project
+# Tips to start the project
 
 1.first go to the folder and run $npm install 
 
